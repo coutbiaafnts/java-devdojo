@@ -4,10 +4,10 @@ public class Class02PrimitiveTypes {
     public static void main(String[] args) {
 
         // int, double, float, char, byte, short, long e boolean
-        int userAgeInt = 21;
-        long bigNumber = 199992;
-        double userWageDouble = 2000.90;
-        float userWageFloat = 2550.50f;
+        int userAgeInt = (int) 10000000000L; // casting: vai cortar os bits para o long caber no int
+        long bigNumber = 199992L;
+        double userWageDouble = 2000.90D;
+        float userWageFloat = 2550.50F;
         byte userAgeByte = 127;
         short userAgeShort = 22;
         boolean isTrue = true;
