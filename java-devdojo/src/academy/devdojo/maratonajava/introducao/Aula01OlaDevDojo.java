@@ -1,4 +1,4 @@
-package academy.devdojo.javadevdojo.introducao;
+package academy.devdojo.maratonajava.introducao;
 
 public class Aula01OlaDevDojo {
     /**
