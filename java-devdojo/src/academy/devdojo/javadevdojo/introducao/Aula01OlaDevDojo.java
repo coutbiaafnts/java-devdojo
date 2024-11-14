@@ -1,6 +1,6 @@
 package academy.devdojo.javadevdojo.introducao;
 
-public class Class01HelloWorld {
+public class Aula01OlaDevDojo {
     /**
      * Isso é um comentário <b>javadoc</b>
      * @param args
